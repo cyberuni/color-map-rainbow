@@ -5,5 +5,5 @@
 # `lts/*` and `lts/-1`. Keep `pnpm` here in step with `packageManager` in
 # package.json; corepack reads that one.
 [tools]
-node = "24"
+node = "26"
 pnpm = "12.16.1"
