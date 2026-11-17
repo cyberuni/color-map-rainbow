@@ -1,5 +1,11 @@
 # color-map-rainbow
 
+## 3.0.1
+
+### Patch Changes
+
+- 86376d3: Include `CHANGELOG.md` in the published package.
+
 ## 3.0.0
 
 ### Major Changes
